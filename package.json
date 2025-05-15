@@ -1,0 +1,23 @@
+{
+  "name": "typescript-fundamentals",
+  "version": "1.0.0",
+  "description": "TypeScript gyorstalpaló. Kis leírásokkal és példa kódokkal. Esetleges interjú válaszokkal.",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:dev": "tsc -w"
+   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Naszi/typescript-fundamentals.git"
+  },
+  "author": "Naszi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Naszi/typescript-fundamentals/issues"
+  },
+  "homepage": "https://github.com/Naszi/typescript-fundamentals#readme",
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
+}
