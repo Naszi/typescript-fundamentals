@@ -10,9 +10,9 @@
 9. npm run start_dev
 
 ## **TypeScript vs. JavaScript**
-|Feature                      |JavaScript |TypeScript  |
-|How are types bound          |Dynamically|Statically  |
-|Type automatically converted?|Yes        |No (at Time)|
-|When are types checked?      |Runtime    |Compile Time|
-|When errors surface?         |Runtime    |Compile Time|
-
+| Feature                      | JavaScript | TypeScript   |
+|-----------------------------|------------|--------------|
+| How are types bound         | Dynamically| Statically   |
+| Type automatically converted?| Yes        | No (at Time) |
+| When are types checked?     | Runtime    | Compile Time |
+| When errors surface?        | Runtime    | Compile Time |
